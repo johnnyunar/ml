@@ -1,0 +1,11 @@
+square_feet,bedrooms,bathrooms,city,price
+1500,3,2,New York,550000
+1800,4,3,Los Angeles,720000
+2400,3,,San Francisco,980000
+1700,2,1,New York,430000
+2000,3,2,Los Angeles,680000
+1600,3,2,San Francisco,890000
+1900,,3,New York,620000
+,5,3,Los Angeles,770000
+2500,4,4,San Francisco,1010000
+2100,3,2,New York,600000
