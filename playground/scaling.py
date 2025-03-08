@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 # Create a simple dataset with features on different scales
+# Play around with the values to see the effect of scaling
 data = pd.DataFrame(
     {"Age": [20, 30, 40, 50, 60], "Income": [30000, 50000, 70000, 90000, 110000]}
 )
